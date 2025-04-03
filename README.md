@@ -1,2 +1,2 @@
-# cse110week1
-This is the first lab for my CSE110 class in UCSD
+# cse110pages
+This repository was created as the first lab for my CSE110 class in UCSD.
