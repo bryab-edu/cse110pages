@@ -1,4 +1,4 @@
-### CSE110PAGES Index
+# CSE110PAGES Index
 
 Skip to the [Good Stuff](#skills)
 
