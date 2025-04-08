@@ -4,3 +4,6 @@
 >
 > *Ernie Johnson (to Charles Barkley), 2007* <br>
 
+Check out this [_Hidden Section_](#hidden-section)
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+## Hidden Section
