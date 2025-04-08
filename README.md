@@ -1,4 +1,4 @@
 # cse110pages
-This repository was created as the first lab for my CSE110 class in UCSD.
+This repository was created as the first lab for my CSE110 class in UCSD. <br>
 Bryan's User Page
-My Favorite Coding Language is Java.
+<br> My Favorite Coding Language is Java.
