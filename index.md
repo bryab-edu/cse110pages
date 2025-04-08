@@ -1,5 +1,5 @@
 ### CSE110PAGES Index
-<img src="https://bryab-edu.github.io/cse110pages/indexFiles/ernie-mf-johnson.jpeg" width="400"> <br>
+<img src="https://bryab-edu.github.io/cse110pages/indexFiles/ernie-mf-johnson.png" width="400"> <br>
 > it seems to me that you're hatin' on Riley because he stacks paper to the ceiling and rides on 24-inch chrome.
 >
 > *Ernie Johnson, 2007* <br>
